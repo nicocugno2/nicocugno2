@@ -5,8 +5,8 @@
 #### About me in code:
 ```js
 const nicocugno = {
-  pronouns: "he" | "him",
   name: "Nicolas Cugno",
+  age: 18
   Birthplace: "Cordoba, Argentina",
   Studies: [Bachelor in Social Sciences-Jesus Maria School(Cordoba, Argentina),
            Systems Engineering Student in UTN(National Technological University of Argentina)],          
@@ -14,6 +14,10 @@ const nicocugno = {
 ```
 
 
+ <details>
+  <summary><b>📚Curriculum</b></summary>
+  -Cv: <a href="CURRICULUM VITAE.pdf">Curriculum Vitae</a><br> 
+  </details>
   <details>
   <summary><b>⚡Degrees</b></summary>
   -Certificado UTN: <a href="Certificado_de_Aprobacin_-_MM01_-_Internet_de_las_Cosas_IOT.pdf">Internet de las Cosas</a><br> 
@@ -64,6 +68,7 @@ Contact:
 >[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicocugno2gmail.com)](mailto:nicocugno2gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=3517020163&text=Olá!)](https://api.whatsapp.com/send?phone=3517020163&text=Hi!🖖)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nicol%C3%A1s-cugno-8b692b1bb/)](https://www.linkedin.com/in/nicol%C3%A1s-cugno-8b692b1bb/)
+<a href="https://www.instagram.com/nico.cugno/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 
 
