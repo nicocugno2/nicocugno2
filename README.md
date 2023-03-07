@@ -3,14 +3,19 @@
 > I am studying systems engineering at the National Technological University (Cordoba, Argentina). I am a proactive person who loves to learn new things and put them into practice 💡. I love exploring new technologies and taking advantage of them to solve real life problems ✨. Apart from that, I also love to guide and guide my colleagues 👨🏻‍💻.
 
 #### About me in code:
-```js
-const nicocugno = {
-  name: "Nicolas Cugno",
-  age: 18
-  Birthplace: "Cordoba, Argentina",
-  Studies: [Bachelor in Social Sciences-Jesus Maria School(Cordoba, Argentina),
-           Systems Engineering Student in UTN(National Technological University of Argentina)],          
-},
+```python
+class ReadMe:
+    def __init__(self, username="nicocugno"):
+        self.username = username
+        self.name = 'Nicolas Cugno'
+        self.age = 19
+        self.location = 'Cordoba, Argentina'
+        self.education = {
+            'Jesus Maria School': ['Bachelor in Social Sciences'],
+            'Argentinian National Technological University(UTN)': ['Studying Systems Engineering'],
+            'Languajes': ['Spanish = Native', 'English = Advanced/Intermediate', 'German = Basic']}
+        self.currentOccupation = 'student, open for job opportunities'
+        
 ```
 
 
