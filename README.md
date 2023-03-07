@@ -13,12 +13,6 @@ const nicocugno = {
 },
 ```
 
-<details>	
-  <summary><b>⚡Degrees</b></summary>
-  > Certificado: [**internet de las Cosas**] 
-
-  
-  
 <p align="left">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
@@ -26,5 +20,15 @@ const nicocugno = {
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><br><br>
   
+
+  <summary><b>⚡Degrees</b></summary>
+  -Certificado UTN: <a href="Certificado_de_Aprobacin_-_MM01_-_Internet_de_las_Cosas_IOT.pdf">Internet de las Cosas</a 
+</details>
+  -Certificado UTN: <a href="Certificado_de_Aprobacin_-_MM01_-_Internet_de_las_Cosas_IOT.pdf">Internet de las Cosas</a 
+  -Certificado UTN: <a href="Certificado_de_Aprobacin_-_MM01_-_Internet_de_las_Cosas_IOT.pdf">Internet de las Cosas</a 
+  -Certificado UTN: <a href="Certificado_de_Aprobacin_-_MM01_-_Internet_de_las_Cosas_IOT.pdf">Internet de las Cosas</a 
+  
+  
+
 
 
